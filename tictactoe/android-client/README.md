@@ -8,4 +8,6 @@ This library is in the process of being published on the OSS Sonatype repo (see:
 
 The application draws a simple Tic Tac Toe game board. Here a Galaxy Nexus beats a Nexus 4:
 
-![JSR-356 Tic Tac Toe](/screenshots/game.png "JSR-356 Tic Tac Toe Android client")
+
+
+[[/screenshots/game.png|alt=JSR-356 Tic Tac Toe Android client|align=center]]
