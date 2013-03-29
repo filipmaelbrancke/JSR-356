@@ -9,4 +9,4 @@ This library is in the process of being published on the OSS Sonatype repo (see:
 The application draws a simple Tic Tac Toe game board. Here a Galaxy Nexus beats a Nexus 4:
 
 
-![ScreenShot](https://raw.github.com/filipmaelbrancke/JSR-356/master/tictactoe/android-client/screenshots/game.png)
+![ScreenShot](/screenshots/game.png)
